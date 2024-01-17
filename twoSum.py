@@ -9,19 +9,7 @@ def twoSum(nums: list[int], target: int) -> list[int]:
         else:
             prevMap[n]=i      # add number to hashmap like {n : i}
     return
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        
     
 nums = [2,7,11,15] 
 target = 9
